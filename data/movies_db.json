@@ -1,0 +1,385 @@
+[
+  {
+    "title": "3 Idiots",
+    "genres": ["Comedy", "Drama", "Family"],
+    "year": "2009",
+    "rating": "8.4",
+    "poster": "/static/images/3idiots.jpg",
+    "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them idiots.",
+    "trailer": "https://www.youtube.com/watch?v=xvszmNXdM4w",
+    "watch_link": "https://archive.org/details/3-idiots_202108"
+  },
+  {
+    "title": "Taare Zameen Par",
+    "genres": ["Drama", "Family"],
+    "year": "2007",
+    "rating": "8.4",
+    "poster":  "/static/images/taare.jpg",
+    "description": "An eight-year-old boy is thought to be lazy and a trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "trailer": "https://www.youtube.com/watch?v=NjV25jXRLxA",
+    "watch_link": "https://archive.org/details/taare-zameen-par-hindi-educational-movie"
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "year": "2011",
+    "rating": "8.2",
+    "poster": "/static/images/znmd.jpg",
+    "description": "Three lifelong friends take a road trip across Spain, confronting their fears, healing past wounds, and rediscovering what it means to truly live, love, and let go.",
+    "trailer": "https://www.youtube.com/watch?v=FJrpcDgC3zU",
+    "watch_link": "https://www.youtube.com/watch?v=gQEUkqZ33IA"
+  },
+  {
+    "title": "Dangal",
+    "genres": ["Drama", "Sports", "Biography"],
+    "year": "2016",
+    "rating": "8.4",
+    "poster": "/static/images/dangal.jpg",
+    "description": "Based on a true story, a determined father trains his daughters to become wrestling champions, breaking gender norms and inspiring a nation with their grit and glory.",
+    "trailer": "https://www.youtube.com/watch?v=x_7YlGv9u1g",
+    "watch_link": "https://archive.org/details/dangal-hindi-educational-movie-hd&playlist=1"
+  },
+  {
+    "title": "Queen",
+    "genres": ["Comedy", "Drama"],
+    "year": "2013",
+    "rating": "8.2",
+    "poster": "/static/images/queen.jpg",
+    "description": "After being left at the altar, a shy Delhi girl sets out on a solo honeymoon trip to Europe, finding her confidence, independence, and the power of self-love in the process.",
+    "trailer": "https://www.youtube.com/watch?v=M_HP8xgXhBU",
+    "watch_link": "https://www.youtube.com/watch?v=X4zmci8t6Ro"
+  },
+  {
+    "title": "Barfi!",
+    "genres": ["Romance", "Comedy", "Drama"],
+    "year": "2012",
+    "rating": "8.1",
+    "poster": "/static/images/barfi.jpg",
+    "description": "In a world that often overlooks imperfection, a mute and deaf boy and an autistic girl create an unspoken love story that’s filled with innocence, laughter, and unbreakable bonds.",
+    "trailer": "https://www.youtube.com/watch?v=nQ3FYUgSjC8",
+    "watch_link": "https://www.youtube.com/watch?v=tEufn51wu78"
+  },
+  {
+    "title": "Piku",
+    "genres": ["Comedy", "Drama", "Family"],
+    "year": "2015",
+    "rating": "7.6",
+    "poster": "/static/images/piku.jpg",
+    "description": "A witty slice-of-life drama about a fiercely independent architect juggling her demanding father’s eccentricities while discovering the humor and warmth in generational relationships.",
+    "trailer": "https://www.youtube.com/watch?v=oeiKUlUUNQ8",
+    "watch_link": "https://www.dailymotion.com/video/x9jxr8e"
+  },
+  {
+    "title": "Pink",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "year": "2016",
+    "rating": "8.1",
+    "poster": "/static/images/pink.jpg",
+    "description": "Three young women become the targets of society’s harsh judgment until a retired lawyer takes up their case in a powerful courtroom drama that redefines consent and justice.",
+    "trailer": "https://www.youtube.com/watch?v=AL2TShb6fFs",
+    "watch_link": "https://www.youtube.com/watch?v=X1wtlagoL3I"
+  },
+  {
+    "title": "Kahaani",
+    "genres": ["Mystery", "Thriller", "Drama"],
+    "year": "2012",
+    "rating": "8.1",
+    "poster": "/static/images/kahaani.jpg",
+    "description": "A pregnant woman’s relentless search for her missing husband takes her through the dark alleys of Kolkata, uncovering secrets that challenge everything she believed.",
+    "trailer": "https://www.youtube.com/watch?v=rsjamVgPoI8",
+    "watch_link": "https://www.dailymotion.com/video/x9ai9mi"
+  },
+  {
+    "title": "Haider",
+    "genres": ["Drama", "Thriller"],
+    "year": "2014",
+    "rating": "8.1",
+    "poster": "/static/images/haider.jpg",
+    "description": "A haunting adaptation of Shakespeare’s Hamlet, set against the backdrop of conflict-ridden Kashmir, where a son seeks truth and revenge for his father’s mysterious disappearance.",
+    "trailer": "https://www.youtube.com/watch?v=ZmN_VSo8DOo",
+    "watch_link": "https://www.youtube.com/watch?v=uKQNhS-3h-4"
+  },
+  {
+    "title": "Highway",
+    "genres": ["Drama", "Adventure"],
+    "year": "2014",
+    "rating": "7.9",
+    "poster": "/static/images/highway.jpg",
+    "description": "A young woman experiences a profound transformation after being kidnapped just before her wedding. As she journeys through remote landscapes with her captor, she discovers freedom, inner strength, and a voice she never knew she had.",
+    "trailer": "https://www.youtube.com/watch?v=LSrDD52bx4A",
+    "watch_link": "https://www.youtube.com/watch?v=HomXjXjVJb0"
+  },
+  {
+    "title": "Tamasha",
+    "genres": ["Romance", "Drama"],
+    "year": "2015",
+    "rating": "7.6",
+    "poster": "/static/images/tamasha.jpg",
+    "description": "Behind the mask of everyday routine, a man discovers his lost self through storytelling and love, battling societal expectations to rediscover his true passion and identity.",
+    "trailer": "https://www.youtube.com/watch?v=QDsRDWR-yoM",
+    "watch_link": "https://www.dailymotion.com/video/x9k8860"
+  },
+  {
+    "title": "Chak De India",
+    "genres": ["Drama", "Sports", "Family"],
+    "year": "2007",
+    "rating": "8.2",
+    "poster": "/static/images/chakde.jpg",
+    "description": "A disgraced former hockey player redeems himself by coaching a ragtag women's team to international victory, inspiring a powerful tale of unity, resilience, and national pride.",
+    "trailer": "https://www.youtube.com/watch?v=6a0-dSMWm5g",
+    "watch_link": "https://www.dailymotion.com/video/x9jvlqk"
+  },
+  {
+    "title": "Lagaan",
+    "genres": ["Adventure", "Drama", "Musical"],
+    "year": "2001",
+    "rating": "8.1",
+    "poster": "/static/images/lagaan.jpg",
+    "description": "Set in British-ruled India, a small village of farmers takes on their colonial oppressors in a high-stakes game of cricket to abolish unfair taxes, in an epic tale of courage and unity.",
+    "trailer": "https://www.youtube.com/watch?v=oSIGQ0YkFxs",
+    "watch_link": "https://www.youtube.com/watch?v=XcUD-Twh6wU&list=PL5cHjqI1fSV57mMxvbyiIWycPd_ql5liP"
+  },
+  {
+    "title": "Rab Ne Bana Di Jodi",
+    "genres": ["Romance", "Drama"],
+    "year": "2008",
+    "rating": "7.9",
+    "poster": "/static/images/rabnebana.jpg",
+    "description": "A simple, introverted man marries a young woman in tragic circumstances and tries to win her heart through a secret new identity, leading to an emotional and heartwarming journey of love and transformation.",
+    "trailer": "https://www.youtube.com/watch?v=eBi8syxPd14",
+    "watch_link": "https://www.febspot.com/video/1216982"
+  },
+  {
+    "title": "Black",
+    "genres": ["Drama"],
+    "year": "2005",
+    "rating": "8.1",
+    "poster": "/static/images/black.jpg",
+    "description": "Inspired by Helen Keller's life, this moving drama follows the extraordinary journey of a deaf-blind girl and her rebellious teacher who never gives up on her potential.",
+    "trailer": "https://www.youtube.com/watch?v=1lBPzx52YfY",
+    "watch_link": "https://www.youtube.com/watch?v=h_z_6L2Vw6I"
+  },
+  {
+    "title": "Raazi",
+    "genres": ["Thriller", "Drama", "War"],
+    "year": "2018",
+    "rating": "7.8",
+    "poster": "/static/images/raazi.jpg",
+    "description": "A young Indian woman marries into a Pakistani military family to work as a spy during wartime, balancing loyalty, love, and sacrifice in this intense thriller based on true events.",
+    "trailer": "https://www.youtube.com/watch?v=YjMSttRJrhA",
+    "watch_link": "https://www.dailymotion.com/video/x8o6fc3"
+  },
+  
+  {
+    "title": "Article 15",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "year": "2019",
+    "rating": "8.2",
+    "poster": "/static/images/article15.jpg",
+    "description": "In a gripping social thriller, a newly posted IPS officer confronts the ugly truth of caste-based oppression in rural India, fighting for justice against systemic silence.",
+    "trailer": "https://www.youtube.com/watch?v=HKOJY0cU63E",
+    "watch_link": "https://archive.org/details/manikarnikathequeenofjhansi2019hindimoviewww.freecitys.cam720phdripesubs1"
+  },
+  {
+    "title": "Andhadhun",
+    "genres": ["Thriller", "Comedy", "Mystery"],
+    "year": "2018",
+    "rating": "8.3",
+    "poster": "/static/images/andhadhun.jpg",
+    "description": "A blind pianist’s life spirals into chaos after witnessing a murder, leading to a darkly comic series of twists that blur the lines between truth and deception.",
+    "trailer": "https://www.youtube.com/watch?v=2iVYI99VGaw",
+    "watch_link": "https://www.youtube.com/watch?v=YpgAvVNa92Y"
+  },
+  {
+    "title": "Lunchbox",
+    "genres": ["Romance", "Drama"],
+    "year": "2013",
+    "rating": "7.8",
+    "poster": "/static/images/lunchbox.jpg",
+    "description": "A misdelivered lunchbox sparks an unexpected exchange of notes between a lonely widower and a neglected housewife, turning into a heartwarming tale of love, food, and second chances.",
+    "trailer": "https://www.youtube.com/watch?v=sK3R0rvnlPs",
+    "watch_link": "https://www.youtube.com/watch?v=P2CJUHzyhXk"
+  },
+  {
+    "title": "Dil Chahta Hai",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "year": "2001",
+    "rating": "8.2",
+    "poster": "/static/images/dilchahtahai.jpg",
+    "description": "Three inseparable childhood friends navigate the trials of love, ambition, and adulthood, testing their bond and shaping their individual paths in life and relationships.",
+    "trailer": "https://www.youtube.com/watch?v=OBAcYSSUf6o",
+    "watch_link": "https://www.youtube.com/watch?v=XdE1nP3pfl4"
+  },
+  {
+    "title": "Masaan",
+    "genres": ["Drama", "Romance"],
+    "year": "2015",
+    "rating": "7.6",
+    "poster": "/static/images/masaan.jpg",
+    "description": "Two parallel stories of grief, love, and hope unfold along the Ganges, exploring the weight of societal pressure and the strength it takes to break free from it.",
+    "trailer": "https://www.youtube.com/watch?v=SKJfBo3xMW0",
+    "watch_link": "https://www.youtube.com/watch?v=ozi0F9xf1x4"
+  },
+  {
+    "title": "Neerja",
+    "genres": ["Biography", "Drama", "Thriller"],
+    "year": "2016",
+    "rating": "7.7",
+    "poster": "/static/images/neerja.jpg",
+    "description": "Based on a true story, this powerful biopic follows Neerja Bhanot, a brave flight attendant who risked her life to save passengers during a hijacking.",
+    "trailer": "https://www.youtube.com/watch?v=FLfCTp6jsW4",
+    "watch_link": "https://www.youtube.com/watch?v=0nqGUetu3r0"
+  },
+  {
+    "title": "URI: The Surgical Strike",
+    "genres": ["Action", "Drama", "War"],
+    "year": "2019",
+    "rating": "8.2",
+    "poster": "/static/images/uri.jpg",
+    "description": "Based on true events, the film follows a brave Indian Army Major who leads a covert operation against militants after a deadly attack on an army base, showcasing courage, strategy, and patriotism.",
+    "trailer": "https://www.youtube.com/watch?v=Cg8sbRFS3zU",
+    "watch_link": "https://www.youtube.com/watch?v=ga1PMLM0Op4"
+  },
+  {
+    "title": "Drishyam",
+    "genres": ["Crime", "Drama", "Mystery"],
+    "year": "2015",
+    "rating": "8.2",
+    "poster": "/static/images/drishyam.jpg",
+    "description": "When his family is threatened, a man goes to extraordinary lengths to protect them, crafting the perfect cover-up in this gripping mystery thriller.",
+    "trailer": "https://www.youtube.com/watch?v=64xJLmcA2K8",
+    "watch_link": "https://www.dailymotion.com/video/x9d8msi"
+  },
+  {
+    "title": "Mimi",
+    "genres": ["Drama", "Family"],
+    "year": "2021",
+    "rating": "7.1",
+    "poster": "/static/images/mimi.jpg",
+    "description": "A small-town dancer agrees to become a surrogate for a foreign couple, but unexpected twists challenge her strength, motherhood, and sense of self.",
+    "trailer": "https://www.youtube.com/watch?v=_sc3HyeNxPs",
+    "watch_link": "https://archive.org/details/mimi-2021"
+  },
+  {
+    "title": "Dil Se",
+    "genres": ["Romance", "Drama", "Thriller"],
+    "year": "1998",
+    "rating": "7.6",
+    "poster": "/static/images/dilse.jpg",
+    "description": "A radio journalist falls deeply in love with a mysterious woman, unaware of the political storm she’s tied to in this intense romantic tragedy.",
+    "trailer": "https://www.youtube.com/watch?v=5C-8ScWuquw&list=RD5C-8ScWuquw&start_radio=1",
+    "watch_link": "https://archive.org/details/dil-se..-1998-web-rip-hindi-720p-x-264-aac-5.1-esub-mkv-cinemas-telly"
+  },
+  {
+    "title": "MS Dhoni: The Untold Story",
+    "genres": ["Biography", "Drama", "Sport"],
+    "year": "2016",
+    "rating": "7.9",
+    "poster": "/static/images/dhoni.jpg",
+    "description": "From a small-town ticket collector to India's cricketing legend, this biopic chronicles the journey of Mahendra Singh Dhoni’s rise to greatness.",
+    "trailer": "https://www.youtube.com/watch?v=6L6XqWoS8tw",
+    "watch_link": "https://www.youtube.com/watch?v=Y8LykuQzK-s"
+  },
+  {
+    "title": "Rockstar",
+    "genres": ["Drama", "Romance", "Musical"],
+    "year": "2011",
+    "rating": "7.9",
+    "poster": "/static/images/rockstar.jpg",
+    "description": "A naive college boy transforms into a tortured rockstar as he experiences heartbreak, artistic passion, and the pain of fame in this musical epic.",
+    "trailer": "https://www.youtube.com/watch?v=bD5FShPZdpw",
+    "watch_link": "https://www.youtube.com/watch?v=F01zP0lvizM"
+  },
+  {
+    "title": "Badhaai Ho",
+    "genres": ["Comedy", "Drama", "Family"],
+    "year": "2018",
+    "rating": "7.4",
+    "poster": "/static/images/badhaaiho.jpg",
+    "description": "When a middle-aged couple faces an unexpected pregnancy, their adult son must deal with embarrassment, society, and an evolving definition of family.",
+    "trailer": "https://www.youtube.com/watch?v=unAljCZMQYw",
+    "watch_link": "https://www.dailymotion.com/video/x95qmho"
+  },
+  {
+    "title": "Udaan",
+    "genres": ["Drama"],
+    "year": "2010",
+    "rating": "8.1",
+    "poster": "/static/images/udaan.jpg",
+    "description": "A teenager expelled from boarding school returns to his authoritarian father, dreaming of freedom, literature, and a life beyond control.",
+    "trailer": "https://www.youtube.com/watch?v=wEJxe2bE-cE",
+    "watch_link": "https://www.youtube.com/watch?v=CIrlJDtUpac"
+  },
+  {
+    "title": "Chhichhore",
+    "genres": ["Comedy", "Drama"],
+    "year": "2019",
+    "rating": "8.2",
+    "poster": "/static/images/chhichhore.jpg",
+    "description": "A group of estranged college friends reunite to support a troubled son, reliving their hilarious and heartwarming hostel days filled with life lessons.",
+    "trailer": "https://www.youtube.com/watch?v=tsxemFX0a7k",
+    "watch_link": "https://www.youtube.com/watch?v=3Q1yTBHjwXc"
+  },
+  {
+    "title": "Rang De Basanti",
+    "genres": ["Drama", "History", "War"],
+    "year": "2006",
+    "rating": "8.2",
+    "poster": "/static/images/rdb.jpg",
+    "description": "College students awaken their patriotism as they reenact stories of India's freedom fighters, only to take justice into their own hands in the present day.",
+    "trailer": "https://www.youtube.com/watch?v=QHhnhqxB4E8",
+    "watch_link": "https://www.youtube.com/watch?v=OIrIuzuT_7g"
+  },
+
+  {
+    "title": "Bajrangi Bhaijaan",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "year": "2015",
+    "rating": "8.1",
+    "poster": "/static/images/bb.jpg",
+    "description": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+    "trailer": "https://www.youtube.com/watch?v=4nwAra0mz_Q",
+    "watch_link": "https://www.dailymotion.com/video/x963g4w"
+  },
+  {
+    "title": "Anand",
+    "genres": ["Drama", "Musical"],
+    "year": "1971",
+    "rating": "8.1",
+    "poster": "/static/images/anand.jpg",
+    "description": "The story of a terminally ill man who wishes to live life to the fullest before the inevitable occurs, as told by his best friend.",
+    "trailer": "https://www.youtube.com/watch?v=vdoMF0qwtAQ",
+    "watch_link": "https://www.youtube.com/watch?v=vdoMF0qwtAQ"
+  },
+  {
+    "title": "Golmaal: Fun Unlimited",
+    "genres": ["Comedy", "Drama"],
+    "year": "2006",
+    "rating": "7.5",
+    "poster": "/static/images/Golmaal-Fun_Unlimited.jpg",
+    "description": "Four runaway crooks take shelter in a bungalow which is owned by a blind couple.",
+    "trailer": "https://www.youtube.com/watch?v=A1-PEkuuWi8",
+    "watch_link": "https://www.youtube.com/watch?v=ZmE6TN9bYQg"
+  },
+  {
+    "title": "Munna Bhai M.B.B.S.",
+    "genres": ["Comedy", "Drama"],
+    "year": "2003",
+    "rating": "8.1",
+    "poster": "/static/images/munna.jpg",
+    "description": "A gangster sets out to fulfill his father's dream of becoming a doctor.",
+    "trailer": "https://www.youtube.com/watch?v=6f-EaUWCua0",
+    "watch_link": "https://www.dailymotion.com/video/x9k4kn6"
+  },
+  {
+    "title": "Stree",
+    "genres": ["Comedy", "Horror"],
+    "year": "2018",
+    "rating": "7.5",
+    "poster": "/static/images/stree.jpg",
+    "description": "In the small town of Chanderi, the menfolk live in fear of an evil spirit named Stree who abducts men in the night.",
+    "trailer": "https://www.youtube.com/watch?v=gzeaGcLLl_A",
+    "watch_link": "https://www.dailymotion.com/video/x92sz2a"
+  }
+]
+
