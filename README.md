@@ -48,9 +48,10 @@ Tell the app how you feel via voice input, and it suggests the perfect movies to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bhoomigupta603/MoodAstra---Mood-based-Movie-Recommender.git
-   cd MoodAstra---Mood-based-Movie-Recommender
 
+Created by Shreya Gupta
+
+GitHub: https://github.com/shreyagupta877
 2. (Optional) Create and activate a Python virtual environment:
 
 - python -m venv venv
@@ -96,8 +97,7 @@ MoodAstra/
 Contributions, suggestions, and improvements are welcome! Please open issues or submit pull requests.
 
 ### Contact
-Created by *Bhoomi Gupta*
-GitHub: https://github.com/Bhoomigupta603
-Email: guptabhoomi577@gmail.com
-
+Created by **Shreya Gupta**
+GitHub: https://github.com/shreyagupta877
+Email: shreyag170403@gmail.com
 Enjoy your Bollywood movie journey with MoodAstra! 
